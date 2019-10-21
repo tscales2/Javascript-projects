@@ -1,0 +1,19 @@
+
+
+.timer{
+    text-align: center;
+    color: darksalmon;
+    background-color: black;
+}
+
+.jumbotron{
+   width: 300px;
+    background-color: #DCEED1;
+    border-radius: 20px;
+    padding: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: darksalmon;
+    font-family: 'Bevan';
+    
+}
